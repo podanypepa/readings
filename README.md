@@ -1,4 +1,4 @@
 # readings
 my reading list
 
-- [gp](./go/README.md)
+- [go](./go/README.md)
