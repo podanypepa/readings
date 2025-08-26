@@ -3,3 +3,4 @@ my reading list
 
 - [go](./go/README.md)
 - [rust](./rust/README.md)
+- [svelte](./svelte/README.md)
